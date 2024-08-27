@@ -17,10 +17,10 @@ void main() {
           children: [
             CircleAvatar(
               radius: 50.0,
-              backgroundImage: AssetImage('images/tdh.png'),
+              backgroundImage: AssetImage('images/lana.jpeg'),
             ),
             Text(
-              'T D H',
+              'Lan Anh',
               style: TextStyle(
                 fontFamily: 'Pacifico',
                 fontSize: 30.0,
@@ -47,7 +47,7 @@ void main() {
                     color: Colors.teal,
                     size: 20.0,
                   ),
-                  title: Text('+84 384 607 095',
+                  title: Text('+84 913 241 976',
                   style: TextStyle(
                     color: Colors.teal.shade900,
                     fontFamily: 'Source Sans 3',
@@ -71,7 +71,7 @@ void main() {
                     color: Colors.teal,
                     size: 20.0,
                   ),
-                  title: Text('tdh2604@mail.com',
+                  title: Text('anhntl.21it@vku.udn.vn',
                   style: TextStyle(
                     fontSize: 20.0,
                     color: Colors.teal.shade900,
